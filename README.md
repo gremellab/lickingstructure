@@ -1,4 +1,3 @@
-INTRODUCTORY TEXT
 The goal of this program is to take raw MEDPC data and produce usable
 information on the timing of each event type (licks, lever presses, head
 entries, reinforcements) and the intervals between events. This includes a
